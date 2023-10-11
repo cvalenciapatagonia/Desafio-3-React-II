@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+.active {
+  color: darkgreen;
+}
+
+.NavBar{
+  font-size: 5em;
+}
+
+.not-active-link {
+  color: #333; /* Cambia este valor al color deseado */
+  /* Otros estilos que desees aplicar a los enlaces inactivos */
+}
+
+.active-link {
+  color: #ff0000; /* Cambia este valor al color deseado para los enlaces activos */
+  /* Otros estilos para los enlaces activos */
+}

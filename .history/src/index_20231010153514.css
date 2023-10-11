@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+.active {
+  color: darkgreen;
+}
+
+.inactive{
+  color: rgb(226, 110, 43);
+}
+
+.NavBar{
+  font-size: 5em;
+  background-color: beige;
+}
+

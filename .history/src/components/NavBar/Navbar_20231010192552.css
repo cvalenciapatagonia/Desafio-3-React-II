@@ -1,0 +1,17 @@
+.active {
+    color: darkgreen;
+  }
+  
+  .inactive{
+    color: gray;
+  }
+  
+  .NavBar{
+    font-size: 5em;
+    background-color: beige;
+  }
+  
+  .navbar-custom {
+  background-color: rgb(0, 0, 0);
+}
+  

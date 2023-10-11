@@ -1,0 +1,25 @@
+.active {
+    color: rgb(193, 42, 42);
+    text-decoration: none;
+  }
+  
+  .inactive{
+    color: rgb(210, 204, 204);
+  }
+  
+  .NavBar{
+    font-size: 5em;
+    background-color: beige;
+  }
+  
+  .navbar-custom {
+  background-color: rgb(0, 0, 0);
+}
+  
+.logo-img{
+    width: 10px;
+}
+
+.nav-item{
+    margin-right: 1em;
+}
