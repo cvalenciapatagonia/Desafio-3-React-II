@@ -12,7 +12,7 @@ return (
 <BrowserRouter>
 <Navbar />
 <Routes>
-<Route path="/Desafio-3-React-II/" element={<Home />} />
+<Route path="/" element={<Home />} />
 <Route path="/pokemones" element={<Pokemones />} />
 <Route path="/pokemones/:pokemonSelected" element={<Description />} />
 </Routes>
